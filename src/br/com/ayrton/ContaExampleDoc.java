@@ -5,7 +5,7 @@ package br.com.ayrton;
  * @author Ayrton Barreto
  */
 
-public abstract class Conta {
+public abstract class ContaExampleDoc {
 
     /**
      * Construtor para inicializar o objeto a partir da agência e número
@@ -13,7 +13,7 @@ public abstract class Conta {
      * @param agencia número da agência
      * @param numero número da conta
      */
-    public Conta(int agencia, int numero){
+    public ContaExampleDoc(int agencia, int numero){
 
     }
 
