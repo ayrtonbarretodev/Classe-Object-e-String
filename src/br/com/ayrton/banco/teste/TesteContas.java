@@ -5,6 +5,8 @@ import br.com.ayrton.banco.modelo.ContaCorrente;
 import br.com.ayrton.banco.modelo.ContaPoupanca;
 import br.com.ayrton.banco.modelo.SaldoInsuficienteException;
 
+import java.io.PrintStream;
+
 public class TesteContas {
 
 	public static void main(String[] args) throws SaldoInsuficienteException {
@@ -25,7 +27,6 @@ public class TesteContas {
 		
 		System.out.println("CC: " + cc.getSaldo());
 		System.out.println("CP: " + cp.getSaldo());
-
 
 	}
 
