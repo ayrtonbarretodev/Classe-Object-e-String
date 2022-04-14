@@ -1,4 +1,4 @@
-package br.com.ayrton;
+package br.com.ayrton.banco.teste;
 
 public class TesteString {
     public static void main(String[] args) {
