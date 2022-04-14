@@ -1,3 +1,5 @@
+package br.com.ayrton;
+
 public class TesteString {
     public static void main(String[] args) {
 
